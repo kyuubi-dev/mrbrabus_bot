@@ -1,2 +1,5 @@
-bot_token = "7148072816:AAGACatnAI57DDgLiSk88L82RyTBJU4ndOA"
-admin = 1919557478
+bot_token = "7020456935:AAHJcMlQdStD95LqfUISALZXQgkOokIcc7k"
+admin = 577731044
+
+# bot_token = "7475157462:AAEo_j9mjQnS2dX4Dq8zmQ3Hanu0qkKA2ZE"
+# admin = 1919557478
